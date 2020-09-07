@@ -26,5 +26,18 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "![ReactJS Resume Website Template](resume-screenshot.png?raw=true \"ReactJS Resume Website Template\")",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asisr38/portfolio.git"
+  },
+  "author": "Ashish Rajthala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asisr38/portfolio/issues"
+  },
+  "homepage": "https://github.com/asisr38/portfolio#readme",
+  "devDependencies": {}
 }

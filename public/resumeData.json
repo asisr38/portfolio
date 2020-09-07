@@ -1,40 +1,40 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
-    "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
+    "name": "Ashish Rajthala",
+    "occupation": "ReactJS Developer && Instructor on Demand",
+    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night.",
+    "image": "ProfileImg.jpeg",
+    "bio": "My name is Ashish, I'm a Full Stack ReactJS Developer. I am a recend Computer Science Graduate, looking for freelancing oportunity and I also tutor beginer React programmers. ",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
-    "phone": "+44 12 345 6789",
+    "email": "asis.rajthala@gmail.com",
+    "phone": "+660-234-1044",
     "address": {
-      "street": "123 Fake Street",
-      "city": "London",
-      "state": "UK",
-      "zip": "ABC 123"
+      "street": "7502 Pollen St",
+      "city": "Lorton",
+      "state": "VA",
+      "zip": "22079"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload": "http://timbakerdev.com",
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/asisr38/",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "https://www.linkedin.com/in/asisr38/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/zisarz/?hl=en",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "https://github.com/asisr38",
         "className": "fa fa-github"
       }
     ]
@@ -43,34 +43,34 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University of Kent",
-        "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
+        "school": "Truman State Univeristy",
+        "degree": "Bachelors of Computer Science",
+        "graduated": "Aug 2020",
         "description": "Graduated with Distinction"
       }
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "Team Member && React Specialist",
-        "years": "April 2020 - Present",
-        "description": "Teaching ReactJS to thousands of students."
+        "company": "CODE FOR NEPAL",
+        "title": "Freelance Web Developer Intern",
+        "years": "May 2019​ to Aug. 2019",
+        "description": " Designed and developed new features for a web application called NepalMap, an interactive map that provides user-friendly data visualizations on key demographic issues"
       },
       {
-        "company": "Lindar Media",
-        "title": "Software Engineer",
-        "years": "Nov 2019 - April 2020",
-        "description": "Building MrQ, a gambling website."
+        "company": "",
+        "title": "",
+        "years": "",
+        "description": ""
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "95%"
       },
       {
         "name": "CSS",
-        "level": "95%"
+        "level": "90%"
       },
       {
         "name": "Git",
@@ -78,61 +78,81 @@
       },
       {
         "name": "Figma && Adobe XD",
-        "level": "55%"
+        "level": "65%"
       },
       {
         "name": "HTML5",
-        "level": "80%"
+        "level": "85%"
       },
       {
         "name": "MongoDB",
         "level": "80%"
+      },
+      {
+        "name": "Java",
+        "level": "85%"
+      },
+      {
+        "name": "Python",
+        "level": "60%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "title": "Firebase Amazon Clone with React",
+        "category": "Amazon clone built with ReactJS, firebase and materialUI",
         "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+        "url": "https://clone-2e5a0.web.app/"
       },
       {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "title": "Covid-19 Tracker with React",
+        "category": "Covid-19 tracker build using ReactJS, diseaseAPI, materialUI and deployed in firebase",
         "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+        "url": "https://covid19-tracker-a5a85.web.app/"
       },
       {
-        "title": "Facebook Clone with React",
-        "category": "Facebook Clone built with ReactJS",
+        "title": "Youtube Clone with React",
+        "category": "Youtube Clone built with ReactJS, firebase, and materailUI",
         "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+        "url": "https://clone-u-tube.web.app/"
       },
       {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
+        "title": "Instagram Clone",
+        "category": "Instagram Clone built with ReactJS",
         "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+        "url": "https://instagram-clone-7f0b2.web.app/"
       },
       {
         "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
+        "category": "Netflix Clone  built with ReactJS",
         "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+        "url": "https://netflix-clone-e1dca.web.app/"
+      },
+      {
+        "title": "Twitter Clone",
+        "category": "Twitter Clone  built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://twitter-clone-4b8a2.web.app/"
+      },
+      {
+        "title": "Messagner Clone",
+        "category": "MEssagner Clone  built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://fb-messenger-clone-97b8a.web.app/"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
+        "text": "Very hardworking and creative. His works shows that he is dedicated to building websites,",
+        "user": "NIschal Shrestha"
       },
       {
-        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "text": "Defenitly would recommend getting tutored by him. He has a clear understanding of what he is teacing,",
+        "user": "Niraj Shrestha"
       }
     ]
   }
